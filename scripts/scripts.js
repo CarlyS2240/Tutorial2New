@@ -4,6 +4,9 @@ function initializeApp() {
     displayMeme(); //new
 }
 
+
+
+//YOLO
 async function displayMeme(){
     try{
         const response = await
